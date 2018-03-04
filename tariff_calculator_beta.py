@@ -1,6 +1,6 @@
 # Simple Tariff Calculator
 # Python 2 program
-# Author: Munshi Muzahid Hasan Tuahr
+# Author: Munshi Muzahid Hasan Tushar
 # Date: 29 August, 2015
 # Version: beta 1.0
 
