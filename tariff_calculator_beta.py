@@ -12,7 +12,7 @@ import os, time # For clearing the screen
 while True:
     os.system('cls') # clear screen for windows
     os.system('color 0a') # set backgroud color to green and font color to light green 
-    print "\n---Simple Tariff Calculator (alpha)---"
+    print "\n---Simple Tariff Calculator (beta 1.0)---"
     print """\nCustomer type:
 1.Residential
 2.Commercial
