@@ -1,4 +1,6 @@
-# Step tatiff
+# The below tariff is invalid now (06 August, 2019)
+
+# Step tariff
 def Residential(unit):
         if unit > 0 and unit <= 50:
             money = unit * 3.33 # life line
