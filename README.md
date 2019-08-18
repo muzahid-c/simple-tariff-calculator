@@ -7,7 +7,7 @@ Back in 2015 I was working in Prepayment Metering Project of DPDC (a power distr
 ## Tech/framework used
 <b>Buit with</b>
 - [Python](https://www.python.org) Python 2 
-- [py2exe](http://www.py2exe.org) Previously used which created a bunch of files, not a single exe
+- ~~[py2exe](http://www.py2exe.org) Used to create exe. It created a bunch of files with exe, not a single exe~~
 - [PyInstaller](https://www.pyinstaller.org/) Now used to create the single exe
 
 ## License
